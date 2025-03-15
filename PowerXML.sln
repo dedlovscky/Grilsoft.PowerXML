@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerXML", "PowerXML\PowerXML.csproj", "{1FE44151-488D-429B-B36D-1E5F4453DE9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerXML.Tests", "PowerXML.Tests\PowerXML.Tests.csproj", "{6262CC66-B03C-4727-BBBE-DD8356DD1261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE44151-488D-429B-B36D-1E5F4453DE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE44151-488D-429B-B36D-1E5F4453DE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE44151-488D-429B-B36D-1E5F4453DE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE44151-488D-429B-B36D-1E5F4453DE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6262CC66-B03C-4727-BBBE-DD8356DD1261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6262CC66-B03C-4727-BBBE-DD8356DD1261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6262CC66-B03C-4727-BBBE-DD8356DD1261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6262CC66-B03C-4727-BBBE-DD8356DD1261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
